@@ -2,7 +2,7 @@
 - 📖 I enjoy spending a considerable amount of my energy trying to grasp concepts of: ToC, Assembly code, the whole Internet absurdity and the plethora of its protocols, compilers, binary analysis, OSINT & ethical hacking in general.
 - 🌱 My current focus is on Python programming (mostly for ethical hacking purposes), and basic concepts of Agda. 
 - 📫 College e-mail address: claudia.raffaelli@studenti.unicam.it
-- https://www.youtube.com/watch?v=h7Xz1J5tmGs
+
 
 <!---
 cleoPinoli/cleoPinoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
