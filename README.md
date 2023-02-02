@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cleoPinoli and I am uhh doing my best I guess.
-- 👀 I’m interested in surviving college with minor casualties
-- 🌱 I’m currently learning Java, C and software engineering in general. Databases as well.
-- 💞️ I’m looking to collaborate on surviving college especially.
+- 👋 Hi, I’m @cleoPinoli; I (somehow) obtained a Bachelor Degree in CS, and (for some reason) decided to specialize in CyberSecurity.
+- 📖 I enjoy spending a considerable amount of my energy trying to grasp concepts of: ToC, Assembly code, the whole Internet absurdity and the plethora of its protocols, compilers, binary analysis, OSINT & ethical hacking in general.
+- 🌱 My current focus is on Python programming (mostly for ethical hacking purposes), and basic concepts of Agda. 
 - 📫 College e-mail address: claudia.raffaelli@studenti.unicam.it
+- https://www.youtube.com/watch?v=SN1116YSIWQ
 
 <!---
 cleoPinoli/cleoPinoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
