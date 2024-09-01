@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cleoPinoli; I (somehow) obtained a Bachelor Degree in CS, and (for some reason) decided to specialize in CyberSecurity.
-- 📖 I enjoy spending a considerable amount of my energy trying to grasp concepts of: ToC, Assembly code, the whole Internet absurdity and the plethora of its protocols, compilers, binary analysis, OSINT & ethical hacking in general.
+- 📖 I’m trying to grasp concepts of: ToC, Internet and the plethora of its protocols, formal verification and model checking
 - 🌱 My current focus is on Python programming (mostly for ethical hacking purposes), and basic concepts of Agda. 
 - 📫 College e-mail address: claudia.raffaelli@studenti.unicam.it
 
