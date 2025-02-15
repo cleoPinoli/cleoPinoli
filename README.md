@@ -5,7 +5,7 @@
 - ☄ In the near future, I'd like to... Get language-certified (I'm currently aiming for a C2 in English and a B1 in German) and get some cool IT certifications such as CompTIA and CCNA too; Learn the ropes of web developing; graduate masters and get an exciting job, if the gods will!
 - 📫 College e-mail address: claudia.raffaelli@studenti.unicam.it
 - 📫 Private e-mail address: raffaelli.cleo@gmail.com
-- ☝🤓 It's "Raffaelli" with two Rs, by the way
+- ☝🤓 It's "Raffaelli" with two Ls, by the way
 
 
 <!---
