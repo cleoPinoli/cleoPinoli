@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cleoPinoli; I (somehow) obtained a Bachelor Diploma in CompSci, and (for some reason) decided to major in CyberSecurity. Or CyberInsecurity, as I like to call it.
 - 📖 My studies mostly focus on: ToC, Internet and the plethora of its protocols, formal verification and model checking
-- 🌱 My current focus is on mechanisation of type systems in Agda, I am somewhat familiar with Python and Java too. There will also be some JavaScript and C# in the foreseeable future. Alas.
+- 🌱 My current focus is on mechanisation of session-typed process calculi in Agda, I am somewhat familiar with Python, C and Java too. My guilty pleasure would be becoming fluent in Assembly. There will also be some C# in the foreseeable future. Alas.
 - 📫 College e-mail address: claudia.raffaelli@studenti.unicam.it
 
 
